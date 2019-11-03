@@ -7,7 +7,8 @@ HUE
 
 
 Hue is the color portion of the model, expressed as a number from 0 to 360 degrees:
-1) Red falls between 0 and 60 degrees.
+
+1)Red falls between 0 and 60 degrees.
 
 2)Yellow falls between 61 and 120 degrees.
 
